@@ -8,7 +8,7 @@ The project includes:
 
 -A web page made with ReactJS, used by companies to put out word for available spots;
 
--And a cross platform mobile interface using React Native, used for renting available spots. 
+-And a cross platform mobile interface made with React Native, used for renting available spots. 
 
 
 
