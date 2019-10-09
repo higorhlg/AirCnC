@@ -3,8 +3,11 @@ Air Code and Coffe, application developed during the OmniStack week using Node.j
 The idea behind this project is an app that allows companies to rent spaces for coworking, and users in general can make reservations of those places. 
 
 The project includes:
+
 -A back-end made with Node.js;
+
 -A web page made with ReactJS;
+
 -And a cross platform mobile interface using React Native. 
 
 
