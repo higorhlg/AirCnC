@@ -4,11 +4,11 @@ The idea behind this project is an app that allows companies to rent spaces for 
 
 The project includes:
 
--A back-end made with Node.js;
+-A back-end made with Node.js using mongoDB and express;
 
--A web page made with ReactJS;
+-A web page made with ReactJS, used by companies to put out word for available spots;
 
--And a cross platform mobile interface using React Native. 
+-And a cross platform mobile interface using React Native, used for renting available spots. 
 
 
 
