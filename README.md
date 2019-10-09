@@ -13,6 +13,6 @@ The project includes:
 
 
 
-The name and idea are based on the original AirBnB (Air Bed and Breakfast) which offers a way for people to rent houses for staying.
+The name and idea are based on the application called AirBnB (Air Bed and Breakfast) which offers a way for people to rent houses for staying.
 
 Credits to Rocketseat for the app idea and assets used in their week long free course called OmniStack where they teach and show the development of this application from scratch.
