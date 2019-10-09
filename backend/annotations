@@ -1,0 +1,10 @@
+using yarn
+
+start backend project with:
+yarn init -y (-y says yes to all questions)
+
+yarn add express (for using express)
+
+create src/server.js manually
+
+yarn add nodemon -D (-D flag add as devdependency only, wont be use for deployment)
