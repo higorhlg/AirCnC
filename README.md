@@ -16,6 +16,9 @@ The project includes:
 <img width="100%" src="https://github.com/Rocketseat/semana-omnistack-9/blob/master/.github/aircnc.png"/>
 
 
+<h2> Credits </h2>
 The name and idea are based on the application called AirBnB (Air Bed and Breakfast) which offers a way for people to rent houses for staying.
 
-Credits to Rocketseat for the app idea and assets used in their week long free course called OmniStack where they teach and show the development of this application from scratch.
+Credits to Rocketseat for the app idea and assets used in their week long free course called OmniStack where they teach and show the development of this application from scratch. Also, the preview images are from Rocketseat's.
+
+This project is under the MIT license.
