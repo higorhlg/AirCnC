@@ -1,16 +1,19 @@
-Air Code and Coffe, application developed during the OmniStack week using Node.js, ReactJS and React Native. 
+# Air Code and Coffe (AirCnc)
+
+Air Code and Coffe, application developed using Node.js, ReactJS and React Native. 
 
 The idea behind this project is an app that allows companies to rent spaces for coworking, and users in general can make reservations of those places. 
 
 The project includes:
+<ul>
+  <li> A server made with Node.js using mongoDB and express</li>
+  <li> A web page made with ReactJS, used by companies to put out word for available spots</li>
+  <li> And a cross platform mobile interface made with React Native, used for renting available spots </li>
+</ul>
 
--A back-end made with Node.js using mongoDB and express;
 
--A web page made with ReactJS, used by companies to put out word for available spots;
-
--And a cross platform mobile interface made with React Native, used for renting available spots. 
-
-
+<h2> Preview </h2>
+<img width="100%" src="https://github.com/Rocketseat/semana-omnistack-9/blob/master/.github/aircnc.png"/>
 
 
 The name and idea are based on the application called AirBnB (Air Bed and Breakfast) which offers a way for people to rent houses for staying.
